@@ -197,5 +197,9 @@ sec-fr-text {
     display: flex;
     justify-content: center;
     gap: 24px;
-    margin-bottom: 130px;
+    margin-bottom: 130;
+}
+
+.common {
+    margin-top: 120px;
 }
