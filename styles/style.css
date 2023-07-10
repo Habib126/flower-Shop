@@ -1,6 +1,9 @@
+/* main styles */
 body {
     font-family: 'Lato', sans-serif;
 }
+
+/* section style start */
 
 .bannar {
     justify-content: space-between;
@@ -9,6 +12,7 @@ body {
     /* width: 1950px; */
     height: 850px;
     padding: 0px 240px;
+    margin: 0px 150px;
 
 }
 
@@ -101,4 +105,36 @@ body {
     height: 428px;
     margin-top: 110px;
     margin-left: 76px;
+}
+
+.image-contain {
+    display: flex;
+    justify-content: center;
+    gap: 310px;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+/* section three start */
+
+.icon-container {
+    display: flex;
+    justify-content: center;
+    /* gap: 320px; */
+    margin: 128px 0px 128px 550px;
+    width: 1440px;
+    height: 320px;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+}
+
+.icon-img {
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+.icone-title {
+    margin-right: 100px;
 }
