@@ -180,6 +180,7 @@ sec-fr-text {
     text-align: center;
     font-size: 40px;
     font-weight: 800;
+    margin-top: 120px;
 }
 
 .five-text {
@@ -190,6 +191,7 @@ sec-fr-text {
     font-weight: 400;
     line-height: 30px;
     margin-bottom: 48px;
+    /* margin-top: 120px; */
 
 }
 
@@ -203,3 +205,20 @@ sec-fr-text {
 .common {
     margin-top: 120px;
 }
+
+.email-input {
+    width: 700px;
+    height: 64px;
+    border: 1px solid seagreen;
+    border-radius: 8px;
+    background: #FFF;
+    color: #191717;
+}
+
+.container-border {
+    height: 449px;
+    border-radius: 8px;
+    background: lightgray;
+    margin: 0px 150px;
+}
+
