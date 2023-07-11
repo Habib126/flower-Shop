@@ -212,12 +212,17 @@ sec-fr-text {
     justify-content: center;
 }
 
+.input-two {
+    display: flex;
+    justify-content: center;
+}
+
 .five-title {
     color: #272727;
     text-align: center;
     font-size: 40px;
     font-weight: 800;
-    margin-top: 120px;
+    margin-top: 200pxpx;
 }
 
 .five-text {
@@ -236,7 +241,7 @@ sec-fr-text {
     display: flex;
     justify-content: center;
     gap: 24px;
-    margin-bottom: 130;
+    margin-bottom: 200px;
 }
 
 .common {
@@ -268,8 +273,28 @@ sec-fr-text {
 
 }
 
+.footer-text {
+    display: flex;
+    justify-content: center;
+    /* width: 700px; */
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 20px;
+}
+
 .s-color {
     color: #E55473;
+}
+
+.copyright {
+    display: flex;
+    justify-content: center;
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
 }
 
 .com-contant {
@@ -280,12 +305,4 @@ sec-fr-text {
     justify-content: center;
 }
 
-.common-contant {
-    color: rgba(255, 255, 255, 0.90);
-    text-align: center;
-    font-size: 18px;
-    font-weight: 400;
-    line-height: 30px;
-    width: 625px;
-    margin: 0 auto;
-}
+/* end the footer section */
