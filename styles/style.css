@@ -222,3 +222,33 @@ sec-fr-text {
     margin: 0px 150px;
 }
 
+.footer-container {
+    height: 449px;
+    background-color: rgb(43, 42, 41);
+    margin: 100px 150px;
+    border-radius: 5px;
+    border: 2px solid white;
+
+}
+
+.s-color {
+    color: #E55473;
+}
+
+.com-contant {
+    color: white;
+    font-size: 48px;
+    font-weight: 800;
+    display: flex;
+    justify-content: center;
+}
+
+.common-contant {
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    width: 625px;
+    margin: 0 auto;
+}
