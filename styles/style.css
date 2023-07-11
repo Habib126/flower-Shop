@@ -273,7 +273,7 @@ sec-fr-text {
 
 }
 
-.footer-text {
+.footer-tab {
     display: flex;
     justify-content: center;
     /* width: 700px; */
@@ -288,7 +288,7 @@ sec-fr-text {
     color: #E55473;
 }
 
-.copyright {
+.copyrit {
     display: flex;
     justify-content: center;
     color: rgba(255, 255, 255, 0.40);
